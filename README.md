@@ -1,0 +1,2 @@
+This is a technical specification on a Pacman Protocol (designed by me) which is complete and unambiguous enough for another programmer to be able to implement an interoperable implementation in Python.
+This protocol allows 2 players to play Pacman remotely from different parts of the world. The specification involves the messages that will be sent by each to player to the other player, the contents of the messages, the timing of the messages and the format of the messages.
